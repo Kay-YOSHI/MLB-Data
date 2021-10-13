@@ -3,8 +3,6 @@
 This repository contains R code for collecting the data on Major League Baseball (MLB), 
 the Statcast pitch-by-pitch data on all regular season games for 2015-2019.
 To collect the data, I utilize the R package "mlbr" (https://github.com/pontsuyu/mlbr). 
-This is quite useful package to collect the MLB data. 
-All you need is to specify the start and end date.
 
 The file "Variable Definition.xlsx" contains the list of variables collected by "mlbr". 
 It also includes each variable's definition 
