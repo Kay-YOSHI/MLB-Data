@@ -11,7 +11,7 @@ the book "*Analyzing Baseball Data with R (2nd ed.)*" written by March, M., Albe
 
 To clarify the correspondence between zone No. and its location, 
 I visualized the variable "zone" in the file "Zone.jpeg". 
-The file "Data_Acquisition.R" also contains the R code for producing the figure.
+The file "MLB_Data.R" also contains the R code for producing the figure.
 
 ## References
 
