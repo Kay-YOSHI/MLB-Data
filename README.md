@@ -1,4 +1,4 @@
-# MLB Data Acquisition
+# MLB Data
 
 This repository contains R code for collecting the data on Major League Baseball (MLB), 
 the Statcast pitch-by-pitch data on all regular season games for 2015-2019.
